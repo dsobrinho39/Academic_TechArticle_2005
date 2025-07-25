@@ -36,15 +36,6 @@ A experiência com a Matriz de Importância x Desempenho me impulsionou a buscar
 
 A combinação da minha pesquisa original com o conhecimento adquirido no MBA me permite abordar desafios de forma holística, transformando insights em planos de ação que geram crescimento e sustentabilidade.
 
-### 📊 Visualizando o Impacto: Minha Abordagem em Ação
-
-Para ilustrar a essência da minha abordagem, aqui estão algumas sugestões visuais que você pode incluir:
-
-* \*\*\*\*: Uma representação gráfica da matriz, mostrando como os pontos de "Velocidade", "Layout", "Navegabilidade" e "Conteúdo" poderiam ser posicionados em um quadrante de importância vs. desempenho. (Você pode criar um gráfico simples em ferramentas como Canva, Figma ou PowerPoint e exportar como imagem).
-
-* \*\*\*\*: Uma coleção de ícones modernos que representem os pilares da sua expertise (ex: um alvo para estratégia, um gráfico de barras para análise de dados, uma lâmpada para inovação).
-
-* \*\*\*\*: Um diagrama simples mostrando o fluxo da sua metodologia de trabalho.
 
 ## 💡 O que você encontrará neste repositório:
 
